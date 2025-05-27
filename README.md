@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ## Contact Me
-- 📫 Email: fyl.0715@foxmail.com
+- 📫 Email: meetfan@qq.com
 - 💼 LinkedIn: [Li Hua's LinkedIn](https://www.linkedin.com/in/lihua)
 - 🌐 Personal Website: [Li Hua's Personal Website](https://www.lihua.com)
 
