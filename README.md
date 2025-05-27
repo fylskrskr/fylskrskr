@@ -1,9 +1,9 @@
 ## Hi there 👋, I'm Yuliang Fan
 
-- 🎓 I just graduated with a Master's degree from Department of Automation, Shanghai Jiao Tong University in 2023;
+- 🎓 I just graduated with a Master's degree from Department of Automation, Shanghai Jiao Tong University;
 - 🌱 I’m currently an Artificial Intelligence Intern working on AI4Protein projects;
 - 🤔 My interests are with AI4Protein, Natural Language Processing, and Computer vision;
-- 📫 Please email via fyl.0715@foxmail.com to reach me.
+- 📫 Please email via meetfan@qq.com to reach me.
 
 
 ## Languages and Tools
