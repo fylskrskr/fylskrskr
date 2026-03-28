@@ -2,7 +2,7 @@
 
 - 🎓 I just graduated with a Master's degree from the Department of Automation, Shanghai Jiao Tong University;
 - 🌱 I’m currently an Artificial Intelligence Intern working on AI4Protein projects;
-- 🤔 My interests are with AI4Protein, Reinforcement Learning and Generative Model;
+- 🤔 My interests are with AI4Protein, Generative Model and Reinforcement Learning;
 - 📫 Please email via imylfan@foxmail.com to reach me.
 
 
@@ -20,7 +20,7 @@
 
 <hr \>
 <p align="center">
-   <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
+   <i>A problem can be solved in 100 different ways, and there's always an easier way to solve a problem.</i>
    <br>
    <!-- <i>You miss 100% of the shots you don't take.</i> -->
 </p>  
