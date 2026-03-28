@@ -3,7 +3,7 @@
 - 🎓 I just graduated with a Master's degree from Department of Automation, Shanghai Jiao Tong University;
 - 🌱 I’m currently an Artificial Intelligence Intern working on AI4Protein projects;
 - 🤔 My interests are with AI4Protein, Natural Language Processing, and Computer vision;
-- 📫 Please email via meetfan@qq.com to reach me.
+- 📫 Please email via imylfan@foxmail.com to reach me.
 
 
 ## Languages and Tools
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ## Contact Me
-- 📫 Email: meetfan@qq.com
+- 📫 Email: imylfan@foxmail.com
 - 💼 LinkedIn: [Li Hua's LinkedIn](https://www.linkedin.com/in/lihua)
 - 🌐 Personal Website: [Li Hua's Personal Website](https://www.lihua.com)
 
